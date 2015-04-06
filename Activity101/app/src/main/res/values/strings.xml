@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activity101</string>
+    <string name="title_activity_activity101">Activity101Activity</string>
+    <string name="hello_world">Hello world, Activity101Activity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
